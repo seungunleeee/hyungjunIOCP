@@ -1,0 +1,7 @@
+C:/Users/asus/Downloads/hiredis-master (1)/build/hiredis.dir/Debug/alloc.obj
+C:/Users/asus/Downloads/hiredis-master (1)/build/hiredis.dir/Debug/async.obj
+C:/Users/asus/Downloads/hiredis-master (1)/build/hiredis.dir/Debug/hiredis.obj
+C:/Users/asus/Downloads/hiredis-master (1)/build/hiredis.dir/Debug/net.obj
+C:/Users/asus/Downloads/hiredis-master (1)/build/hiredis.dir/Debug/read.obj
+C:/Users/asus/Downloads/hiredis-master (1)/build/hiredis.dir/Debug/sds.obj
+C:/Users/asus/Downloads/hiredis-master (1)/build/hiredis.dir/Debug/sockcompat.obj

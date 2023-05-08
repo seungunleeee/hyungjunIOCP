@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DOWNLOADS\HIREDIS-MASTER (1)\HIREDIS-MASTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/asus/Downloads/hiredis-master (1)/hiredis-master" "-BC:/Users/asus/Downloads/hiredis-master (1)/build" --check-stamp-file "C:/Users/asus/Downloads/hiredis-master (1)/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

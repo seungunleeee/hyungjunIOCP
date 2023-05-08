@@ -1,0 +1,3 @@
+hiredis-test 0 0
+---
+hiredis-test

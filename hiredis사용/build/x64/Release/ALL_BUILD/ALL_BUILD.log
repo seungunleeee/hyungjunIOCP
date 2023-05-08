@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/asus/Downloads/hiredis-master (1)/hiredis-master/CMakeLists.txt
+  "{0} -> {1}(부분 -> 전체 PDB)"
+  System.FormatException: 0에서 시작하는 인덱스는 0보다 크거나 같아야 하며 인수 목록의 크기보다 작아야 합니다.
+     위치: System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+     위치: System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+     위치: System.String.Format(String format, Object[] args)
+     위치: Microsoft.Build.Framework.LazyFormattedBuildEventArgs.FormatString(String unformatted, Object[] args)
+EXEC : fatal error CMF1106: 

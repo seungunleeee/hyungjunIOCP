@@ -1,0 +1,7 @@
+C:/Users/asus/Downloads/hiredis-master (1)/build/CMakeFiles/hiredis.dir
+C:/Users/asus/Downloads/hiredis-master (1)/build/CMakeFiles/hiredis-test.dir
+C:/Users/asus/Downloads/hiredis-master (1)/build/CMakeFiles/PACKAGE.dir
+C:/Users/asus/Downloads/hiredis-master (1)/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/asus/Downloads/hiredis-master (1)/build/CMakeFiles/INSTALL.dir
+C:/Users/asus/Downloads/hiredis-master (1)/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/asus/Downloads/hiredis-master (1)/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,18 @@
+Start testing: Apr 24 04:09 대한민국 표준시
+----------------------------------------------------------
+1/1 Testing: hiredis-test
+1/1 Test: hiredis-test
+Command: "C:/Users/asus/Downloads/hiredis-master (1)/hiredis-master/test.sh"
+Directory: C:/Users/asus/Downloads/hiredis-master (1)/build
+"hiredis-test" start time: Apr 24 04:09 대한민국 표준시
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"hiredis-test" end time: Apr 24 04:09 대한민국 표준시
+"hiredis-test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 24 04:09 대한민국 표준시
